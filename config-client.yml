@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: order
 info:
   profile: default
   from: git1
