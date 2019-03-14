@@ -1,8 +1,5 @@
 spring:
   application:
     name: order
-info:
-  profile: default
-  from: git1
-  
-test: bbb
+env:
+  dev
